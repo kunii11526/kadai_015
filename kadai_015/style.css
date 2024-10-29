@@ -1,14 +1,13 @@
 .blue {
-  font-family: "Arial", "Meiryo", sans-serif;
   color: skyblue;
 }
 
-.pink {
-  font-family: "Arial", "Meiryo", sans-serif;
+.pink {  
   color: rgb(255, 192, 203);
 }
 
 body {
+  font-family: "Arial", "Meiryo", sans-serif;
   text-align: center;
 }
 
